@@ -4,7 +4,9 @@
 
 ### Front-End Developer | Software Engineer
 
-Aspiring Software Engineer with experience building responsive web applications using JavaScript, React, HTML, and CSS. Passionate about creating user-friendly interfaces and working with APIs to deliver dynamic web experiences.
+Aspiring Software Engineer with experience building responsive web applications using JavaScript, React, HTML, and CSS. Passionate about creating user friendly interfaces and working with APIs to deliver dynamic web experiences. 
+
+In addtion, I enjoy reading books about manga, history books, developing good  habits and music theroy. I do like engaging out door activites like hiking, swimming, gym, and seeing wildlife. 
 
 ---
 
