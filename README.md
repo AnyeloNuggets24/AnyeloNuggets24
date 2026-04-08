@@ -31,7 +31,7 @@ Aspiring Software Engineer with experience building responsive web applications 
 - Search and save news articles using real-time API data  
 - Built with React and JavaScript  
 - Features authentication and responsive design  
-👉 [View Project](https://github.com/AnyeloNuggets24/se_project_news-explorer)
+👉 [View Project](https://github.com/AnyeloNuggets24/se_project_news-explorer.git)
 
 ---
 
@@ -39,19 +39,19 @@ Aspiring Software Engineer with experience building responsive web applications 
 - Weather-based clothing recommendation app  
 - Integrated API for real-time weather data  
 - Built with React and responsive UI  
-👉 [View Project](https://github.com/YOUR-LINK-HERE)
+👉 [View Project](https://github.com/AnyeloNuggets24/se_project_react.git)
 
 ---
 
 ### 📸 Around the US App
 - Instagram-like app for sharing and liking photos  
 - Built using JavaScript, HTML, and CSS  
-👉 [View Project](https://github.com/AnyeloNuggets24/se_project_aroundtheus)
+👉 [View Project](https://github.com/AnyeloNuggets24/se_project_aroundtheus.git)
 
 ---
 
 ## 🌐 Connect With Me
-- LinkedIn: [Add your link here]
+- LinkedIn: [www.linkedin.com/in/anyelocarranzaedtech]
 - GitHub: https://github.com/AnyeloNuggets24
 
 <h3 align="left">Languages and Tools:</h3>
