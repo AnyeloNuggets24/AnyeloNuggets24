@@ -1,9 +1,9 @@
 # AnyeloNuggets24
 
 <h1 align="center">Hi 👋, I'm Anyelo Carranza-Ortiz</h1>
-<h3 align="center">Im a Student, Undergraduate,and Developer</h3>
+<h3 align="center">I am a Software Engineer Gradurate </h3>
 
-- 🔭 I’m currently working on **project 9**
+- 🔭 I’m currently working on **Back End Project and more knowlenge of Javascript**
 
 - 👯 I’m looking to collaborate on **Asynchronous Javascrpit and working on APIs**
 
